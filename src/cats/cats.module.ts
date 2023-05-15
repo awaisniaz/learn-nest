@@ -5,4 +5,4 @@ import { Module } from '@nestjs/common';
 
 export class CatsModule { }
 
-console.log("I am Cat Console")
+
